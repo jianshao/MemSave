@@ -71,18 +71,21 @@ EMB_MODEL=nomic-embed-text
 
 
 **🛠️ 进阶用法**
+
 多租户/多项目管理
 你可以通过指定 user_id 为不同的项目创建隔离的记忆空间：
 user_id="project_alpha": 存储 A 项目的技术栈和决策记录。
 user_id="personal_fin": 存储个人理财偏好和历史账单。
 
-核心 API 说明
+**核心 API 说明**
+
 MemSave 暴露了一个高阶工具接口：
 chat_with_memory(user_input, user_id):
 输入：原始用户提问。
 输出：经过背景增强的回答 + 结构化摘要更新 + 本轮节省统计。
 
 **🗺️ 路线图 (Roadmap)**
+
 基于 MCP 的三轨记忆闭环
 多 Provider 模型工厂 (OpenAI/Ollama/DeepSeek)
 Web UI 可视化面板：直观查看和编辑 Agent 的记忆事实
@@ -92,4 +95,5 @@ Web UI 可视化面板：直观查看和编辑 Agent 的记忆事实
 **📄 开源协议**
 本项目采用 Apache-2.0 协议。欢迎集成到你的商业应用中，但请保留原作者署名。
 立即部署 MemSave，让你的 Agent 摆脱“金鱼脑”，开始享受廉价且强大的长期记忆。
+
 ⭐ Star Us on GitHub | 💬 加入讨论
