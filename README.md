@@ -39,7 +39,7 @@
 
 ### 1. 克隆并安装环境
 ```bash
-git clone https://github.com
+git clone https://github.com/jianshao/MemSave.git
 cd MemSave
 pip install -r requirements.txt
 ```
