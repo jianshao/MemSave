@@ -4,7 +4,7 @@
 [![License](https://shields.io)](LICENSE)
 [![Token Savings](https://shields.io)](#-性能基准)
 
-**MemSave** 是一款基于 **Model Context Protocol (MCP)** 的高性能 Agent 记忆管理服务。它不只是一个存储工具，而是一个自带逻辑闭环的“第二大脑”。通过独创的**三轨引擎（Triple-Track Engine）**，MemSave 能让你的 Agent 在跨越数月的对话中依然保持精准记忆，同时将 Token 成本降低 80% 以上。
+**MemSave** 是一款基于 **Model Context Protocol (MCP)** 的高性能 Agent 记忆管理服务。它不只是一个存储工具，而是一个自带逻辑闭环的“第二大脑”。通过独创的**三轨引擎（Triple-Track Engine）**，MemSave 能让你的 Agent 在跨越数月的对话中依然保持精准记忆，同时将 Token 成本降低 80% 以上。**持续优化中。。。**
 
 ---
 
